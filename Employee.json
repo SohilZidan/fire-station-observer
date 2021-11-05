@@ -1,0 +1,38 @@
+[
+    {
+        "__class__": "Junior",
+        "__module__": "lib.Employee",
+        "name": "soso",
+        "Id": 3
+    },
+    {
+        "__class__": "Junior",
+        "__module__": "lib.Employee",
+        "name": "toto",
+        "Id": 85
+    },
+    {
+        "__class__": "Senior",
+        "__module__": "lib.Employee",
+        "name": "tata",
+        "Id": 36
+    },
+    {
+        "__class__": "Senior",
+        "__module__": "lib.Employee",
+        "name": "lala",
+        "Id": 8
+    },
+    {
+        "__class__": "Manager",
+        "__module__": "lib.Employee",
+        "name": "fofo",
+        "Id": 5
+    },
+    {
+        "__class__": "Director",
+        "__module__": "lib.Employee",
+        "name": "yoyo",
+        "Id": 31
+    }
+]
